@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterBall
+  m_Shader: {fileID: -6465566751694194690, guid: 3ce0786c743b34344b4edd97fb5cdc8c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_d6a0dca12ab1442dbe5e5746c91f94a2:
+        m_Texture: {fileID: 2800000, guid: 0a961fa1d6cbf7548bab45c433d507e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_019ecfd38a414616b3c3d8a33a2786ec: 0.12
+    - Vector1_07aaf174eb084e3d848e468e7a5e0974: 0.01
+    - Vector1_08122aeefb074935a868896882f4222b: 1
+    - Vector1_0e99c93aa41c4aa69f7cdfd3917c6abf: 0.57
+    - Vector1_54e7bd2811d743b999255304e4797e0b: 10.59
+    - Vector1_5c3e0d52d37b486098e580d445cad7e0: -0.88
+    - Vector1_6369d1591f5c43d5a00aef29e39f60e2: 0.5
+    - Vector1_8ace848cd1eb449ea20f7900d9517623: -0.36
+    - Vector1_cb496463bd424b52aad3f9f858c16df4: 0.21
+    - Vector1_d5540190dc89421e9b7f53a7e3c4918c: 5
+    - Vector1_ffc3203b08304397b96008ccec490ce0: 0
+    m_Colors:
+    - Color_c08cf4e6d2f64101870aa3b04d2b9eb0: {r: 0.26415092, g: 0.26415092, b: 0.26415092,
+        a: 0}
+  m_BuildTextureStacks: []
